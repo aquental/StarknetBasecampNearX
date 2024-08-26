@@ -1,4 +1,4 @@
-# StarknetBasecampNearX
+# Starknet Basecamp NearX
 
 ## Config
 >[Config](https://www.youtube.com/watch?v=UzRHehWDdow)
