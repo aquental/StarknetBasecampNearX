@@ -7,3 +7,9 @@
 
 ## Day 1
 > [Day 1](https://www.youtube.com/watch?v=zMVXM-dpYzY)
+
+## Day 2
+> [Day 2](-)
+
+## Day 3
+> [Day 3](-)
