@@ -30,6 +30,9 @@
 | Public key      |  0x5afff160be71e265edbca9da1acbad7996f2661174eb3c2a4f4f0711d2cf12c
 ```
 
+[Code](https://github.com/aquental/counter)
+
+
 ## Day 2
 
 > [2024-08-28](-)
