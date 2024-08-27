@@ -14,7 +14,7 @@
 
 ## Day 1
 
-> [Day 1](https://www.youtube.com/watch?v=zMVXM-dpYzY)
+> [2024-08-26](https://www.youtube.com/watch?v=zMVXM-dpYzY)
 >
 > ```sh
 >  #starknet-devnet --seed 2148813889
@@ -32,11 +32,11 @@
 
 ## Day 2
 
-> [Day 2](-)
+> [2024-08-28](-)
 
 ## Day 3
 
-> [Day 3](-)
+> [2024-08-30](-)
 
 ```
 
