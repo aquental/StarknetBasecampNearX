@@ -35,7 +35,7 @@
 
 ## Day 2
 
-> [2024-08-28](https://www.youtube.com/watch?v=xx)
+> [2024-08-28](https://www.youtube.com/watch?v=0v58mtt9ae4)
 
 ## Day 3
 
