@@ -44,3 +44,8 @@
 ```
 
 ```
+
+
+### Previous Basecamp
+
+[Basecamp 9](https://www.youtube.com/watch?v=bZd-WUvNH5Q&list=PLMXIoXErTTYWyWg4AQVJP1N-7ZoYh4g1y)
