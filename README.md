@@ -35,11 +35,11 @@
 
 ## Day 2
 
-> [2024-08-28](-)
+> [2024-08-28](https://www.youtube.com/watch?v=xx)
 
 ## Day 3
 
-> [2024-08-30](-)
+> [2024-08-30](https://www.youtube.com/watch?v=xx)
 
 ```
 
