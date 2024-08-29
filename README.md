@@ -41,6 +41,10 @@
 > [Demystifying Cairo White Paper — Part I](https://medium.com/@pban/demystifying-cairo-white-paper-part-i-b71976ad0108)
 >
 > [Demystifying Cairo White Paper — Part II](https://medium.com/@pban/demystifying-cairo-white-paper-part-ii-9f9dc51886e9)
+>
+> [Cairo Book](https://book.cairo-lang.org/)
+>
+> [Starknet Book](https://book.starknet.io/title-page.html)
 
 ## Day 3
 
