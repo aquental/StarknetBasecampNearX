@@ -47,7 +47,7 @@
 >
 > [Starknet Book](https://book.starknet.io/title-page.html)
 >
-> - [ ] [Starklings](https://starklings.app/)
+> - [ ] [Starklings](https://starklings.app/) :white_check_mark:
 >
 > - [ ] [OnlyDust](https://www.onlydust.com/)
 >
@@ -64,3 +64,5 @@
 ### Previous Basecamp
 
 [Basecamp 9](https://www.youtube.com/watch?v=bZd-WUvNH5Q&list=PLMXIoXErTTYWyWg4AQVJP1N-7ZoYh4g1y)
+
+[Starknet Kampala Basecamp](https://www.youtube.com/playlist?list=PLOYP_hXwmI9_WsY4oJQHHdn4yjnqJlM1e)
