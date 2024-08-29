@@ -46,9 +46,9 @@
 >
 > [Starknet Book](https://book.starknet.io/title-page.html)
 >
-> [Starklings](https://starklings.app/)
+> - [ ] [Starklings](https://starklings.app/)
 >
-> [OnlyDust](https://www.onlydust.com/)
+> - [ ] [OnlyDust](https://www.onlydust.com/)
 >
 > [Starknet Basecamp Hub](https://starknet.notion.site/Starknet-Basecamp-Hub-1541b3c1f49f439da872d3d71647d834)
 
