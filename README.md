@@ -32,6 +32,7 @@
 
 [Code](https://github.com/aquental/counter)
 
+[Homework 1]()
 
 ## Day 2
 
@@ -52,14 +53,13 @@
 >
 > [Starknet Basecamp Hub](https://starknet.notion.site/Starknet-Basecamp-Hub-1541b3c1f49f439da872d3d71647d834)
 
+[Homework 2]()
+
 ## Day 3
 
 > [2024-08-30](https://www.youtube.com/watch?v=xx)
 
-```
-
-```
-
+[Homework 3]()
 
 ### Previous Basecamp
 
