@@ -1,9 +1,9 @@
 #[derive(Drop, Copy)]
 enum Message { // TODO: implement the message variant types based on their usage below
-   Quit,
     Move: Point,
     Echo: felt252,
-    ChangeColor: (u8, u8, u8)
+    ChangeColor: (u8, u8, u8),
+    Quit,
 }
 
 #[derive(Drop, Copy)]
@@ -51,8 +51,8 @@ impl StateImpl of StateTrait {
     match message {
             Message::ChangeColor((r, g, b)) => self.change_color((r, g, b)),
             Message::Echo(s) => self.echo(s),
-            Message::Move(x, y) => self.move_position(Point{x, y}),
-            Message::Quit => self.quit()
+            Message::Move(p) => self.move_position(p),
+            Message::Quit => self.quit(),
         }
     }
 }
