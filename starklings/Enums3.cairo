@@ -1,8 +1,6 @@
-//https://book.cairo-lang.org/ch06-01-enums.html
-
 #[derive(Drop, Copy)]
 enum Message { // TODO: implement the message variant types based on their usage below
-    Quit,
+   Quit,
     Move: Point,
     Echo: felt252,
     ChangeColor: (u8, u8, u8)
@@ -50,10 +48,10 @@ impl StateImpl of StateTrait {
     fn process(
         ref self: State, message: Message
     ) { // TODO: create a match expression to process the different message variants
-        match message {
-            Message::ChangeColor(r, g, b) => self.change_color((r, g, b)),
+    match message {
+            Message::ChangeColor((r, g, b)) => self.change_color((r, g, b)),
             Message::Echo(s) => self.echo(s),
-            Message::Move{x, y} => self.move_position(Point{x, y}),
+            Message::Move(x, y) => self.move_position(Point{x, y}),
             Message::Quit => self.quit()
         }
     }
