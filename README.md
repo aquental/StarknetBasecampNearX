@@ -39,6 +39,7 @@
 > [2024-08-28](https://www.youtube.com/watch?v=0v58mtt9ae4)
 
 ### Cairo
+
 > [Demystifying Cairo White Paper — Part I](https://medium.com/@pban/demystifying-cairo-white-paper-part-i-b71976ad0108)
 >
 > [Demystifying Cairo White Paper — Part II](https://medium.com/@pban/demystifying-cairo-white-paper-part-ii-9f9dc51886e9)
@@ -57,7 +58,7 @@
 
 ## Day 3
 
-> [2024-08-30](https://www.youtube.com/watch?v=xx)
+> [2024-08-30](https://www.youtube.com/watch?v=Zee4fmm-aBw)
 
 [Homework 3]()
 
