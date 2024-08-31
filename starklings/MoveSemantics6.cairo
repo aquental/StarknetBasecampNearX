@@ -19,6 +19,6 @@ fn get_value(number: @Number) -> u32 {
 // Should take ownership
 fn set_value(number: Number) {
     let value = 2222222;
-    number = Number { value };
+    let mut number = Number { value };
     println!("{}", number.value);
 }
