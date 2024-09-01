@@ -27,7 +27,7 @@ impl TeamImpl of TeamTrait {
     }
 
     fn players_count(self: @Team) -> usize { //TODO
-        self.players_count.into()
+        *self.players_count
     }
 }
 
