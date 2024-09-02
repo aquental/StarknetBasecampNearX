@@ -3,6 +3,7 @@ trait IJoesContract<TContractState> {
     fn get_owner(self: @TContractState) -> felt252;
 }
 
+//https://book.cairo-lang.org/ch13-02-anatomy-of-a-simple-contract.html
 #[starknet::contract]
 mod JoesContract {
     #[storage]
