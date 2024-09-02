@@ -32,7 +32,7 @@
 
 [Code](https://github.com/aquental/counter)
 
-[Homework 1]()
+[Homework](homework.md)
 
 ## Day 2
 
@@ -44,9 +44,9 @@
 >
 > [Demystifying Cairo White Paper — Part II](https://medium.com/@pban/demystifying-cairo-white-paper-part-ii-9f9dc51886e9)
 >
-> [Cairo Book](https://book.cairo-lang.org/)
+> 📖[Cairo Book](https://book.cairo-lang.org/)
 >
-> [Starknet Book](https://book.starknet.io/title-page.html)
+> 📖[Starknet Book](https://book.starknet.io/title-page.html)
 >
 > - [ ] [Starklings](https://starklings.app/) :white_check_mark:
 >
@@ -56,13 +56,9 @@
 >
 > [Introduction to Cairo language](https://www.certik.com/resources/blog/fQfJVKgF4GAQdpIXgwrOb-an-introduction-to-the-cairo-programming-language)
 
-[Homework 2]()
-
 ## Day 3
 
 > [2024-08-30](https://www.youtube.com/watch?v=Zee4fmm-aBw)
-
-[Homework 3]()
 
 ### Previous Basecamp
 
