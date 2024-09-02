@@ -2,7 +2,7 @@
 
 ## Homework dia 1
 
-- [ ] - upload do contrato Counter no seu github e um screen dos resultados das interações e compartilhem o link neste grupo .
+- [ ] - upload do contrato [Counter](https://github.com/aquental/counter) no seu github e um screen dos resultados das interações e compartilhem o link neste grupo .
 
 - [ ] - Para a aula 3 vocês usarão tanto a wallet na rede testnet quanto na mainnet.
     No caso da mainnet iremos enviar alguns STRK para q vocês possam ativar sua conta e pagar pelas transações.
