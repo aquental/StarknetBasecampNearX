@@ -53,6 +53,8 @@
 > - [ ] [OnlyDust](https://www.onlydust.com/)
 >
 > [Starknet Basecamp Hub](https://starknet.notion.site/Starknet-Basecamp-Hub-1541b3c1f49f439da872d3d71647d834)
+>
+> [Introduction to Cairo language](https://www.certik.com/resources/blog/fQfJVKgF4GAQdpIXgwrOb-an-introduction-to-the-cairo-programming-language)
 
 [Homework 2]()
 
