@@ -7,7 +7,7 @@ trait IJoesContract<TContractState> {
 mod JoesContract {
     #[storage]
     struct Storage {}
-
+    #[abi(embed_v0)]
     impl IJoesContractImpl of super::IJoesContract<ContractState> {
         fn get_owner(self: @ContractState) -> felt252 {
             'Joe'
