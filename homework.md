@@ -8,8 +8,7 @@
 
 - [ ] Starklings : [solution](./starklings)
 
-- [ ] - Para a aula 3 vocês usarão tanto a wallet na rede testnet quanto na mainnet.
-    No caso da mainnet iremos enviar alguns STRK para q vocês possam ativar sua conta e pagar pelas transações.
+## Homework dia 3
 
 - [ ] Deployar um ERC20 com nome e symbol diferente (Qntl)
 
