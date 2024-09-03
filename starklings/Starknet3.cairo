@@ -1,5 +1,5 @@
 use starknet::ContractAddress;
-use core::dict::Felt252Dict;
+use core::dict::LegacyMap;
 
 #[starknet::interface]
 trait IProgressTracker<TContractState> {
@@ -17,13 +17,12 @@ mod ProgressTracker {
     struct Storage {
         contract_owner: ContractAddress,
         // TODO: Set types for LegacyMap
-        progress: Felt252Dict<u16>
+        progress: LegacyMap::<ContractAddress, u16>,
     }
 
     #[constructor]
     fn constructor(ref self: ContractState, owner: ContractAddress) {
         self.contract_owner.write(owner);
-        self.progress = Default::default();
     }
 
 
@@ -32,19 +31,19 @@ mod ProgressTracker {
         fn set_progress(
             ref self: ContractState, user: ContractAddress, new_progress: u16
         ) { // TODO: assert owner is calling
-            if user == self.contract_owner.read() {
-                // TODO: set new_progress for user,
-                let idx: felt252 = user.try_into().unwrap();
-                self.progress.insert(idx, new_progress);
+            if self.contract_owner.read() == user {
+                // TODO: set new_progress for user
+                let mut prg = self.progress.read();
+                prg.insert(user, new_progress);
             } else {
-                let msg: felt252 = 'not owner';
-                panic(msg);
+                panic!("not owner");
             }
         }
 
-        fn get_progress(self: @ContractState, user: ContractAddress) -> u16 { // Get user progress
-            let idx: felt252 = user.try_into().unwrap();
-            self.progress.get(idx)
+        fn get_progress(self: @ContractState, user: ContractAddress) -> u16 {
+            // Get user progress
+            let mut prg:LegacyMap<u16> = self.progress.read();
+            prg.get(user)
         }
 
         fn get_contract_owner(self: @ContractState) -> ContractAddress {
