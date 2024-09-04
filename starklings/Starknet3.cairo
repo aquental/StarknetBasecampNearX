@@ -1,5 +1,4 @@
 use starknet::ContractAddress;
-use core::dict::LegacyMap;
 
 #[starknet::interface]
 trait IProgressTracker<TContractState> {
@@ -17,7 +16,7 @@ mod ProgressTracker {
     struct Storage {
         contract_owner: ContractAddress,
         // TODO: Set types for LegacyMap
-        progress: LegacyMap::<ContractAddress, u16>,
+        progress: LegacyMap::<ContractAddress, u16>
     }
 
     #[constructor]
@@ -30,20 +29,18 @@ mod ProgressTracker {
     impl ProgressTrackerImpl of super::IProgressTracker<ContractState> {
         fn set_progress(
             ref self: ContractState, user: ContractAddress, new_progress: u16
-        ) { // TODO: assert owner is calling
+        ) { 
+            // TODO: assert owner is calling
             if self.contract_owner.read() == user {
-                // TODO: set new_progress for user
-                let mut prg = self.progress.read();
-                prg.insert(user, new_progress);
+                // TODO: set new_progress for user,
+                self.progress.write(user, new_progress);
             } else {
                 panic!("not owner");
             }
         }
 
-        fn get_progress(self: @ContractState, user: ContractAddress) -> u16 {
-            // Get user progress
-            let mut prg:LegacyMap<u16> = self.progress.read();
-            prg.get(user)
+        fn get_progress(self: @ContractState, user: ContractAddress) -> u16 { // Get user progress
+            self.progress.read(user)
         }
 
         fn get_contract_owner(self: @ContractState) -> ContractAddress {
