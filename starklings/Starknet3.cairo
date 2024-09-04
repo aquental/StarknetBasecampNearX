@@ -31,7 +31,7 @@ mod ProgressTracker {
             ref self: ContractState, user: ContractAddress, new_progress: u16
         ) { 
             // TODO: assert owner is calling
-            if self.contract_owner.read() == user {
+            if get_caller_address() == self.contract_owner.read() {
                 // TODO: set new_progress for user,
                 self.progress.write(user, new_progress);
             } else {
@@ -39,7 +39,8 @@ mod ProgressTracker {
             }
         }
 
-        fn get_progress(self: @ContractState, user: ContractAddress) -> u16 { // Get user progress
+        fn get_progress(self: @ContractState, user: ContractAddress) -> u16 {
+            // Get user progress
             self.progress.read(user)
         }
 
