@@ -48,7 +48,7 @@
 >
 > 📖[Starknet Book](https://book.starknet.io/title-page.html)
 >
-> - [ ] [Starklings](https://starklings.app/) :white_check_mark:
+> - [x] [Starklings](https://starklings.app/) :white_check_mark:
 >
 > - [ ] [OnlyDust](https://www.onlydust.com/)
 >
