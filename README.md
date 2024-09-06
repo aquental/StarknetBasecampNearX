@@ -70,3 +70,4 @@
 
 [Starknet ERC20](https://github.com/starknet-edu/starknet-erc20)
 
+[Writing and deploying your first ERC20 token on Starknet](https://www.argent.xyz/blog/writing-and-deploying-your-first-erc20-token-on-starknet)
