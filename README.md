@@ -70,4 +70,8 @@
 
 [Starknet ERC20](https://github.com/starknet-edu/starknet-erc20)
 
-[Writing and deploying your first ERC20 token on Starknet](https://www.argent.xyz/blog/writing-and-deploying-your-first-erc20-token-on-starknet)
+> Argent X
+> 
+> [Writing and deploying your first ERC20 token on Starknet](https://www.argent.xyz/blog/writing-and-deploying-your-first-erc20-token-on-starknet)
+> 
+> [repo](https://github.com/argentlabs/min-starknet/blob/new_syntax/src/min_erc20/ERC20.cairo)
