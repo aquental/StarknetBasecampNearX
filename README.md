@@ -67,3 +67,6 @@
 [Starknet Kampala Basecamp](https://www.youtube.com/playlist?list=PLOYP_hXwmI9_WsY4oJQHHdn4yjnqJlM1e)
 
 [StarkNet Basecamp - Cohort 1](https://www.youtube.com/watch?v=7p60e7RzuMs&list=PLcIyXLwiPilVhgOKl2uNawwBA6KV9NLYn)
+
+[Starknet ERC20](https://github.com/starknet-edu/starknet-erc20)
+
