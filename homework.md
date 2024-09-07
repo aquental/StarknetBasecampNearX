@@ -2,11 +2,11 @@
 
 ## Homework dia 1
 
-- [ ] - upload do contrato [Counter](https://github.com/aquental/counter) no seu github e um screen dos resultados das interações e compartilhem o link neste grupo .
+- [X] - upload do contrato [Counter](https://github.com/aquental/counter) no seu github e um screen dos resultados das interações e compartilhem o link neste grupo .
 
 ## Homework dia 2
 
-- [ ] Starklings : [solution](./starklings)
+- [X] Starklings : [solution](./starklings)
 
 ## Homework dia 3
 
