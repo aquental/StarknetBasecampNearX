@@ -75,3 +75,5 @@
 > [Writing and deploying your first ERC20 token on Starknet](https://www.argent.xyz/blog/writing-and-deploying-your-first-erc20-token-on-starknet)
 > 
 > [repo](https://github.com/argentlabs/min-starknet/blob/new_syntax/src/min_erc20/ERC20.cairo)
+
+- [ ] [Starknet Basecamp Self Serve](https://www.youtube.com/playlist?list=PLMXIoXErTTYWjJGmSMgORC7O8tKffBhfU)
