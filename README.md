@@ -50,6 +50,8 @@
 >
 > - [x] [Starklings](https://starklings.app/) :white_check_mark:
 >
+> - [x] [Rustlings](https://github.com/rust-lang/rustlings) :white_check_mark:
+>
 > - [ ] [OnlyDust](https://www.onlydust.com/)
 >
 > [Starknet Basecamp Hub](https://starknet.notion.site/Starknet-Basecamp-Hub-1541b3c1f49f439da872d3d71647d834)
