@@ -62,7 +62,7 @@
 
 > [2024-08-30](https://www.youtube.com/watch?v=Zee4fmm-aBw)
 
-### project
+### Project
 
 > [erc20](https://github.com/aquental/token-sender-erc20-basecamp2)
 >
