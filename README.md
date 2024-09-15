@@ -62,6 +62,12 @@
 
 > [2024-08-30](https://www.youtube.com/watch?v=Zee4fmm-aBw)
 
+### project
+
+> [erc20](https://github.com/aquental/token-sender-erc20-basecamp2)
+>
+> [frontend](https://github.com/aquental/starknet-workshop-frontend-basecamp2)
+
 ### Previous Basecamp
 
 [Basecamp 9](https://www.youtube.com/watch?v=bZd-WUvNH5Q&list=PLMXIoXErTTYWyWg4AQVJP1N-7ZoYh4g1y)
